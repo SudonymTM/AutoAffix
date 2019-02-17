@@ -36,3 +36,7 @@ If you find any Bugs or you have any Ideas, just contribute, open up an Issue or
 Other than that, I'll try to find a way to automate the .rpf extraction and repacking aswell, until then, watchout for updates.
 
 **Have fun using AutoAffix** :)
+
+
+---
+## [Latest Release (Download)](https://github.com/SudonymTM/AutoAffix/releases/tag/1.0.0)
