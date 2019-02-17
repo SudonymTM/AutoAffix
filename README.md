@@ -11,7 +11,7 @@ Installation is easy.
 Setup a new Folder in which you want to be using this Tool.
 Extract the newest release in that Folder.
 
-**NOTE**: For this script to work, you need to have your Keys generated! - The ArchiveFix Tool is located in `lib`.
+**NOTE**: For this Tool to work, you need to have your Keys generated! - The ArchiveFix Tool is located in `lib`.
 Please refer to the [Rage:MP Tutorial by Ari](https://rage.mp/forums/topic/1194-how-to-affix-vehicle-addon-mods/) for instructions on how to accomplish that.
 
 
