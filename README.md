@@ -30,7 +30,7 @@ Also, don't forget to delete/move all Files from `workdir` after each Patch!
 
 
 ----
-## 4.  Other
+## 3.  Other
 First off, thanks for using AutoAffix.
 If you find any Bugs or you have any Ideas, just contribute, open up an Issue or write me a Message.
 Other than that, I'll try to find a way to automate the .rpf extraction and repacking aswell, until then, watchout for updates.
