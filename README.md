@@ -1,3 +1,9 @@
+# Tool is currently experiencing a Critical Bug! 
+# Please read the Issue.
+
+---
+---
+
 # AutoAffix
 ## This is the repo for the AutoAffix Tool.
 Here you can get all newest updates/bugfixes and an introduction!
